@@ -5,6 +5,3 @@ Enter first number: 5
 Enter opeartion: +
 Enter second number: 7
 The addition of  5.0  and  7.0  is  12.0
-Calculator
-Enter 'exit' if you want to quit from Calculator
-Enter first number: 
